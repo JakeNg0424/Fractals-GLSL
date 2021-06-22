@@ -1,5 +1,7 @@
 # Freaky Fractals
 
+Inspiration: https://en.wikipedia.org/wiki/Mandelbrot_set
+
 <img src=".ignore/1.jpg" width="240" height="240"/><-Mandelbrot Set
 <img src=".ignore/1.gif" width="240" height="240"/><-Freaky
 
